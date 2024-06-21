@@ -38,22 +38,28 @@ chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
 
 driver = webdriver.Chrome(options=chrome_options)
-
+driver.implicitly_wait(5)
 # open website
-for past in list:
+olympic=[]
+columns=["country", "gold", "silver", "bronze", "total"]
+for past in list[0:len(list)-3]:
     driver.get(f"https://olympics.com/en/olympic-games/{past}/medals")
+
     games=driver.find_element(By.XPATH, '//*[@id="grid-container"]/div[1]/div[3]')
 
     games=re.split("\n", games.text)
 
-
     countries=numpy.array(games)
-    countries=countries.reshape(1,int(len(games)/5),5)
-    cities=driver.find_elements(By.CLASS_NAME, "image-wrapper")
-    print(past)
+    countries=countries.reshape(int(len(games)/5),5)
+    games=countries.tolist()
+    countries=pd.DataFrame(games, columns=columns)
+    olympic.append(countries)
+    countries.to_csv(f"results/{past}.csv")
+
+
     # for city in cities:
     #     print(city.text)
     # #print(len(countries))
-    # print(countries )
+
 
 driver.quit()
