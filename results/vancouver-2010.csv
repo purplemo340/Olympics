@@ -1,27 +1,27 @@
 ,country,gold,silver,bronze,total
-0,Australia,2,1,-,3
+0,Australia,2,1,0,3
 1,Austria,4,6,6,16
-2,Belarus,1,-,1,2
+2,Belarus,1,1,1,3
 3,Canada,14,7,5,26
-4,Croatia,-,2,1,3
-5,Czechia,2,-,4,6
-6,Estonia,-,1,-,1
-7,Finland,-,1,3,4
-8,France,1,1,4,6
-9,Germany,8,9,5,22
-10,Great Britain,1,-,-,1
+4,Croatia,0,2,1,3
+5,Czechia,2,0,4,6
+6,Estonia,0,1,0,1
+7,Finland,0,1,4,5
+8,France,2,3,6,11
+9,Germany,10,13,7,30
+10,Great Britain,1,0,0,1
 11,Italy,1,1,3,5
-12,Japan,-,3,2,5
-13,Kazakhstan,-,1,-,1
-14,Latvia,-,2,-,2
+12,Japan,0,3,2,5
+13,Kazakhstan,0,1,0,1
+14,Latvia,0,2,0,2
 15,Netherlands,4,1,3,8
-16,Norway,3,4,4,11
+16,Norway,9,8,6,23
 17,People's Republic of China,5,2,4,11
-18,Poland,1,2,1,4
+18,Poland,1,3,2,6
 19,Republic of Korea,6,6,2,14
-20,Russian Federation,1,3,5,9
-21,Slovakia,1,-,-,1
-22,Slovenia,-,2,1,3
-23,Sweden,2,1,2,5
-24,Switzerland,6,-,3,9
+20,Russian Federation,3,5,7,15
+21,Slovakia,1,1,1,3
+22,Slovenia,0,2,1,3
+23,Sweden,5,2,4,11
+24,Switzerland,6,0,3,9
 25,United States of America,9,15,13,37

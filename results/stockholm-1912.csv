@@ -1,6 +1,6 @@
 ,country,gold,silver,bronze,total
 0,Australia,2,2,3,7
-1,Austria,-,2,2,4
+1,Austria,0,2,2,4
 2,Belgium,2,1,3,6
 3,Canada,3,2,3,8
 4,Denmark,1,6,5,12
@@ -8,13 +8,13 @@
 6,France,7,5,3,15
 7,Germany,6,13,7,26
 8,Great Britain,10,15,16,41
-9,Greece,1,-,1,2
+9,Greece,1,0,1,2
 10,Hungary,3,2,3,8
 11,Italy,5,1,2,8
-12,Netherlands,-,-,3,3
+12,Netherlands,0,0,3,3
 13,Norway,3,2,5,10
-14,Russian Federation,-,2,3,5
-15,South Africa,4,2,-,6
+14,Russian Federation,0,2,3,5
+15,South Africa,4,2,0,6
 16,Sweden,23,25,17,65
-17,Switzerland,1,-,-,1
+17,Switzerland,1,0,0,1
 18,United States of America,26,19,19,64

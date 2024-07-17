@@ -1,0 +1,26 @@
+:root{
+--bs-blue:#30BCED;
+--bs-red: #F93943;
+--bs-white: #FFFAFF;
+--bs-orange: #FFA400;
+--bs-green: #7BC950;
+--bs-corn-yellow: #dd935e;
+--bs-light-yellow: #dd935e;
+--bs-dust-blue: #8e9183;
+--bs-light-purple: #a56170;
+
+}
+.countdown{
+    background-color:var(--bs-blue);
+    text-align: center;
+    border-radius: 10px;
+}
+#clock{
+    font-size: 32px
+}
+#info{
+    font-size:16px
+}
+body{
+    background-color: var(--bs-white);
+}

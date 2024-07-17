@@ -1,94 +1,94 @@
 ,country,gold,silver,bronze,total
-0,Argentina,-,1,2,3
-1,Armenia,-,2,2,4
+0,Argentina,0,1,2,3
+1,Armenia,0,2,2,4
 2,Australia,17,7,22,46
 3,Austria,1,1,5,7
-4,Azerbaijan,-,3,4,7
-5,Bahamas,2,-,-,2
-6,Bahrain,-,1,-,1
+4,Azerbaijan,0,3,4,7
+5,Bahamas,2,0,0,2
+6,Bahrain,0,1,0,1
 7,Belarus,1,3,3,7
-8,Belgium,2,1,3,6
-9,Bermuda,1,-,-,1
-10,Botswana,-,-,1,1
+8,Belgium,3,1,3,7
+9,Bermuda,1,0,0,1
+10,Botswana,0,0,1,1
 11,Brazil,7,6,8,21
 12,Bulgaria,3,1,2,6
-13,Burkina Faso,-,-,1,1
-14,Canada,5,6,8,19
+13,Burkina Faso,0,0,1,1
+14,Canada,7,7,10,24
 15,Chinese Taipei,2,4,6,12
-16,Colombia,-,4,1,5
+16,Colombia,0,4,1,5
 17,Croatia,3,3,2,8
 18,Cuba,7,3,5,15
 19,Czechia,4,4,3,11
-20,Côte d'Ivoire,-,-,1,1
+20,Côte d'Ivoire,0,0,1,1
 21,Denmark,3,4,4,11
-22,Dominican Republic,-,3,2,5
-23,Ecuador,2,1,-,3
+22,Dominican Republic,0,3,2,5
+23,Ecuador,2,1,0,3
 24,Egypt,1,1,4,6
-25,Estonia,1,-,1,2
+25,Estonia,1,0,1,2
 26,Ethiopia,1,1,2,4
-27,Fiji,1,-,1,2
-28,Finland,-,-,2,2
+27,Fiji,1,0,1,2
+28,Finland,0,0,2,2
 29,France,10,12,11,33
 30,Georgia,2,5,1,8
 31,Germany,10,11,16,37
-32,Ghana,-,-,1,1
-33,Great Britain,22,18,22,62
+32,Ghana,0,0,1,1
+33,Great Britain,22,20,22,64
 34,Greece,2,1,1,4
-35,Grenada,-,-,1,1
+35,Grenada,0,0,1,1
 36,"Hong Kong, China",1,2,3,6
 37,Hungary,6,7,7,20
 38,India,1,2,4,7
 39,Indonesia,1,1,3,5
-40,Ireland,2,-,2,4
+40,Ireland,2,0,2,4
 41,Islamic Republic of Iran,3,2,2,7
-42,Israel,2,-,2,4
-43,Italy,6,10,20,36
+42,Israel,2,0,2,4
+43,Italy,10,10,20,40
 44,Jamaica,4,1,4,9
 45,Japan,27,14,17,58
-46,Jordan,-,1,1,2
-47,Kazakhstan,-,-,8,8
-48,Kenya,1,-,-,1
-49,Kosovo,2,-,-,2
-50,Kuwait,-,-,1,1
-51,Kyrgyzstan,-,2,1,3
-52,Latvia,1,-,1,2
-53,Lithuania,-,1,-,1
-54,Malaysia,-,1,1,2
-55,Mexico,-,-,4,4
-56,Mongolia,-,1,3,4
-57,Morocco,1,-,-,1
-58,Namibia,-,1,-,1
-59,Netherlands,8,10,11,29
+46,Jordan,0,1,1,2
+47,Kazakhstan,0,0,8,8
+48,Kenya,4,4,2,10
+49,Kosovo,2,0,0,2
+50,Kuwait,0,0,1,1
+51,Kyrgyzstan,0,2,1,3
+52,Latvia,1,0,1,2
+53,Lithuania,0,1,0,1
+54,Malaysia,0,1,1,2
+55,Mexico,0,0,4,4
+56,Mongolia,0,1,3,4
+57,Morocco,1,0,0,1
+58,Namibia,0,1,0,1
+59,Netherlands,10,12,14,36
 60,New Zealand,7,6,7,20
-61,Nigeria,-,1,1,2
-62,North Macedonia,-,1,-,1
+61,Nigeria,0,1,1,2
+62,North Macedonia,0,1,0,1
 63,Norway,4,2,2,8
-64,People's Republic of China,36,30,18,84
+64,People's Republic of China,38,32,19,89
 65,Philippines,1,2,1,4
 66,Poland,4,5,5,14
 67,Portugal,1,1,2,4
-68,Puerto Rico,1,-,-,1
-69,Qatar,2,-,1,3
+68,Puerto Rico,1,0,0,1
+69,Qatar,2,0,1,3
 70,ROC,20,28,23,71
-71,Republic of Korea,3,4,10,17
-72,Republic of Moldova,-,-,1,1
-73,Romania,1,3,-,4
-74,San Marino,-,1,2,3
-75,Saudi Arabia,-,1,-,1
+71,Republic of Korea,6,4,10,20
+72,Republic of Moldova,0,0,1,1
+73,Romania,1,3,0,4
+74,San Marino,0,1,2,3
+75,Saudi Arabia,0,1,0,1
 76,Serbia,3,1,5,9
 77,Slovakia,1,2,1,4
 78,Slovenia,3,1,1,5
-79,South Africa,1,2,-,3
+79,South Africa,1,2,0,3
 80,Spain,3,8,6,17
-81,Sweden,3,6,-,9
+81,Sweden,3,6,0,9
 82,Switzerland,3,4,6,13
-83,Syrian Arab Republic,-,-,1,1
-84,Thailand,1,-,1,2
-85,Tunisia,1,1,-,2
-86,Turkmenistan,-,1,-,1
+83,Syrian Arab Republic,0,0,1,1
+84,Thailand,1,0,1,2
+85,Tunisia,1,1,0,2
+86,Turkmenistan,0,1,0,1
 87,Türkiye,2,2,9,13
 88,Uganda,2,1,1,4
 89,Ukraine,1,6,12,19
-90,United States of America,39,41,32,112
-91,Uzbekistan,3,-,2,5
-92,Venezuela,1,3,-,4
+90,United States of America,39,41,33,113
+91,Uzbekistan,3,0,2,5
+92,Venezuela,1,3,0,4
