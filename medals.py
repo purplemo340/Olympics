@@ -78,5 +78,5 @@ for past in past_game['City-Year']:
     games.append(pd.read_csv(f"results/{past}.csv"))
 
 countries=pd.read_csv(f"results/games.csv")['City-Year']
-type=pd.read_csv(f"results/games.csv")['Type']
+type1=pd.read_csv(f"results/games.csv")['Type']
 driver.quit()

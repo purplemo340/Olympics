@@ -1,10 +1,5 @@
-/*function read_file{
-    let info = document.querySelector("#info");
-    const fs=require('fs');
-    let text= fs.readFileSync("results.csv", "utf8");
-    info.textContent = text;
- }*/
-// read_file();
+
+/*
  var data = [{
   type: "pie",
   values: [2, 3, 4, 4],
@@ -18,4 +13,4 @@ var layout = [{
   width: 700
 }]
 
-Plotly.newPlot('myDiv', data, layout)
+Plotly.newPlot('myDiv', data, layout)*/
