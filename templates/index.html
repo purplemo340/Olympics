@@ -1,35 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <title>Olympic Data</title>
-    <link rel="stylesheet" href="static/app.css">
-     <!--script src="https://cdn.plot.ly/plotly-2.32.0.min.js" charset="utf-8"></script-->
+<html>
+{% include 'header.html' %}
 
-</head>
-<body>
-    <div class="container">
-        <div class="countdown">
-            <h1>Countdown to Olympics</h1>
-            <script src="static/count.js"></script>
-            <span id="clock"></span>
-            <span id="info"></span>
-
-
-
-        </div>
-       
-
-        </div>
 
 <form method="POST">
     <select name="Cities">
         {%for game in games:%}
         <option value="{{ game }}">{{ game.title().replace('-', ' ') }}</option>
+
         {% endfor %}
     </select>
     <button type="submit">Submit</button>
+
 </form>
+{% if city:%}
+    <img src="../static/images/{{city.title()}}.png">
+    {% endif %}
 </body>
 </html>
