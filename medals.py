@@ -58,11 +58,11 @@ for past in past_game['City-Year']:
 
 
         columns=["country", "gold", "silver", "bronze", "total"]
-        for past in past_game['City-Year']:
-            olympic = []
-            driver.get(f"https://olympics.com/en/olympic-games/{past}/medals")
 
-            games=driver.find_elements(By.CSS_SELECTOR, 'div>div>div>span')
+        olympic = []
+        driver.get(f"https://olympics.com/en/olympic-games/{past}/medals")
+
+        games=driver.find_elements(By.CSS_SELECTOR, 'div>div>div>span')
         for game in games:
             if game.text!='' and game.text!='Copyright 2024. All rights reserved':
                 olympic.append(game.text.replace("-", '0'))
