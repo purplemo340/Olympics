@@ -1,7 +1,7 @@
 function displayTime(){
     let clock = document.querySelector("#clock");
     let now = new Date();
-    let game= new Date('July 26, 2024 13:30:00');
+    let game= new Date('July 14, 2028 13:30:00');
     let time= game.getTime()-now.getTime();
     sec=Math.floor((time%(1000*60))/(1000));
     min=Math.floor((time%(1000*60*60))/(1000*60));
