@@ -1,14 +1,14 @@
-,country,gold,silver,bronze,total
-0,Austria,4,3,4,11
-1,Canada,0,1,2,3
-2,Finland,3,3,1,7
-3,Germany,1,0,1,2
-4,Hungary,0,0,1,1
-5,Italy,1,2,0,3
-6,Japan,0,1,0,1
-7,Norway,2,1,1,4
-8,Poland,0,0,1,1
-9,Sweden,2,4,4,10
-10,Switzerland,3,2,1,6
-11,USSR,7,3,6,16
-12,United States of America,2,3,2,7
+,abv,country,gold,silver,bronze,total
+0,AUT,Austria,4,3,4,11
+1,CAN,Canada,0,1,2,3
+2,FIN,Finland,3,3,1,7
+3,GER,Germany,1,0,1,2
+4,HUN,Hungary,0,0,1,1
+5,ITA,Italy,1,2,0,3
+6,JPN,Japan,0,1,0,1
+7,NOR,Norway,2,1,1,4
+8,POL,Poland,0,0,1,1
+9,SWE,Sweden,2,4,4,10
+10,SUI,Switzerland,3,2,1,6
+11,USSR,USSR,7,3,6,16
+12,USA,United States of America,2,3,2,7

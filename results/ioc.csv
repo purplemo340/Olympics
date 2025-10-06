@@ -1,0 +1,218 @@
+,Countries,Abbreviations
+0,Algeria,ALG
+1,Angola,ANG
+2,Benin,BEN
+3,Botswana,BOT
+4,Burkina Faso,BUR
+5,Burundi,BDI
+6,Cameroon,CMR
+7,Cabo Verde,CPV
+8,Central African Republic,CAF
+9,Chad,CHA
+10,Comoros,COM
+11,Congo,CGO
+12,Democratic Republic of the Congo,COD
+13,Côte d’Ivoire,CIV
+14,Djibouti,DJI
+15,Egypt,EGY
+16,Eritrea,ERI
+17,Eswatini,SWZ
+18,Ethiopia,ETH
+19,Gabon,GAB
+20,Gambia,GAM
+21,Ghana,GHA
+22,Guinea,GUI
+23,Guinea,Bissau
+24,Equatorial Guinea,GEQ
+25,Kenya,KEN
+26,Lesotho,LES
+27,Liberia,LBR
+28,Libya,LBA
+29,Madagascar,MAD
+30,Malawi,MAW
+31,Mali,MLI
+32,Morocco,MAR
+33,Mauritius,MRI
+34,Mauritania,MTN
+35,Mozambique,MOZ
+36,Namibia,NAM
+37,Niger,NIG
+38,Nigeria,NGR
+39,Uganda,UGA
+40,Rwanda,RWA
+41,Sao Tome and Principe,STP
+42,Senegal,SEN
+43,Seychelles,SEY
+44,Sierra Leone,SLE
+45,Somalia,SOM
+46,South Africa,RSA
+47,South Sudan,SSD
+48,Sudan,SUD
+49,United Republic of Tanzania,TAN
+50,Togo,TOG
+51,Tunisia,TUN
+52,Zambia,ZAM
+53,Zimbabwe,ZIM
+54,Antigua and Barbuda,ANT
+55,Argentina,ARG
+56,Aruba,ARU
+57,Bahamas,BAH
+58,Barbados,BAR
+59,Belize,BIZ
+60,Bermuda,BER
+61,Bolivia,BOL
+62,Brazil,BRA
+63,Cayman Islands,CAY
+64,Canada,CAN
+65,Chile,CHI
+66,Colombia,COL
+67,Costa Rica,CRC
+68,Cuba,CUB
+69,Dominican Republic,DOM
+70,Dominica,DMA
+71,El Salvador,ESA
+72,Ecuador,ECU
+73,Grenada,GRN
+74,Guatemala,GUA
+75,Guyana,GUY
+76,Haiti,HAI
+77,Honduras,HON
+78,Jamaica,JAM
+79,Mexico,MEX
+80,Nicaragua,NCA
+81,Panama,PAN
+82,Paraguay,PAR
+83,Peru,PER
+84,Puerto Rico,PUR
+85,Saint Kitts and Nevis,SKN
+86,Saint Lucia,LCA
+87,St. Vincent and the Grenadines,VIN
+88,Suriname,SUR
+89,Trinidad and Tobago,TTO
+90,United States of America,USA
+91,Uruguay,URU
+92,Venezuela,VEN
+93,"Virgin Islands, British",IVB
+94,"Virgin Islands, US",ISV
+95,Afghanistan,AFG
+96,Bahrain,BRN
+97,Bangladesh,BAN
+98,Bhutan,BHU
+99,Brunei Darussalam,BRU
+100,Cambodia,CAM
+101,People’s Republic of China,CHN
+102,Republic of Korea,KOR
+103,"Hong Kong, China",HKG
+104,India,IND
+105,Indonesia,INA
+106,Islamic Republic of Iran,IRI
+107,Iraq,IRQ
+108,Japan,JPN
+109,Jordan,JOR
+110,Kazakhstan,KAZ
+111,Kyrgyzstan,KGZ
+112,Kuwait,KUW
+113,Lao People’s Democratic Republic,LAO
+114,Lebanon,LBN
+115,Malaysia,MAS
+116,Maldives,MDV
+117,Mongolia,MGL
+118,Myanmar,MYA
+119,Nepal,NEP
+120,Oman,OMA
+121,Pakistan,PAK
+122,Palestine,PLE
+123,Philippines,PHI
+124,Qatar,QAT
+125,Democratic People’s Republic of Korea,PRK
+126,Saudi Arabia,KSA
+127,Singapore,SGP
+128,Sri Lanka,SRI
+129,Syrian Arab Republic,SYR
+130,Tajikistan,TJK
+131,Chinese Taipei,TPE
+132,Thailand,THA
+133,Democratic Rep. of Timor,Leste
+134,Turkmenistan,TKM
+135,United Arab Emirates,UAE
+136,Uzbekistan,UZB
+137,Vietnam,VIE
+138,Yemen,YEM
+139,Albania,ALB
+140,Andorra,AND
+141,Armenia,ARM
+142,Austria,AUT
+143,Azerbaijan,AZE
+144,Belgium,BEL
+145,Bosnia and Herzegovina,BIH
+146,Bulgaria,BUL
+147,Cyprus,CYP
+148,Croatia,CRO
+149,Czechia,CZE
+150,Denmark,DEN
+151,Spain,ESP
+152,Estonia,EST
+153,Finland,FIN
+154,France,FRA
+155,Georgia,GEO
+156,Germany,GER
+157,Great Britain,GBR
+158,Greece,GRE
+159,Hungary,HUN
+160,Ireland,IRL
+161,Iceland,ISL
+162,Israel,ISR
+163,Italy,ITA
+164,Kosovo,KOS
+165,Latvia,LAT
+166,Liechtenstein,LIE
+167,Lithuania,LTU
+168,Luxembourg,LUX
+169,North Macedonia,MKD
+170,Malta,MLT
+171,Republic of Moldova,MDA
+172,Monaco,MON
+173,Montenegro,MNE
+174,Netherlands,NED
+175,Norway,NOR
+176,Poland,POL
+177,Portugal,POR
+178,Romania,ROU
+179,San Marino,SMR
+180,Serbia,SRB
+181,Slovakia,SVK
+182,Slovenia,SLO
+183,Sweden,SWE
+184,Switzerland,SUI
+185,Türkiye,TUR
+186,Ukraine,UKR
+187,American Samoa,ASA
+188,Australia,AUS
+189,Cook Islands,COK
+190,Fiji,FIJ
+191,Guam,GUM
+192,Kiribati,KIR
+193,Marshall Islands,MHL
+194,Federated States of Micronesia,FSM
+195,Nauru,NRU
+196,New Zealand,NZL
+197,Palau,PLW
+198,Papua New Guinea,PNG
+199,Solomon Islands,SOL
+200,Samoa,SAM
+201,Tonga,TGA
+202,Tuvalu,TUV
+203,Vanuatu,VAN
+204,Belarus,BOC
+205,Serbia and Montenegro,SCG
+206,Yugoslavia,YUG
+207,Independent Olympic Athletes,IOA
+208,Russian Federation,RUS
+209,Czechoslovakia,TCH
+210,Unified Team,EUN
+211,Mixed team,MIX
+212,Federal Republic of Germany,FRG
+213,German Democratic Republic (Germany),GDR
+214,Netherlands Antilles,AHO
+215,USSR,USSR
+216,Mixed Team,MIX

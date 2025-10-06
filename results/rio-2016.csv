@@ -1,87 +1,87 @@
-,country,gold,silver,bronze,total
-0,Algeria,0,2,0,2
-1,Argentina,3,1,0,4
-2,Armenia,1,3,0,4
-3,Australia,8,11,10,29
-4,Austria,0,0,1,1
-5,Azerbaijan,1,7,10,18
-6,Bahamas,1,0,1,2
-7,Bahrain,1,1,0,2
-8,Belarus,1,4,4,9
-9,Belgium,2,2,2,6
-10,Brazil,7,6,6,19
-11,Bulgaria,0,1,2,3
-12,Burundi,0,1,0,1
-13,Canada,4,3,15,22
-14,Chinese Taipei,1,0,2,3
-15,Colombia,3,2,3,8
-16,Croatia,5,3,2,10
-17,Cuba,5,2,4,11
-18,Czechia,1,2,7,10
-19,Côte d'Ivoire,1,0,1,2
-20,Democratic People's Republic of Korea,2,3,2,7
-21,Denmark,2,6,7,15
-22,Dominican Republic,0,0,1,1
-23,Egypt,0,0,3,3
-24,Estonia,0,0,1,1
-25,Ethiopia,1,2,5,8
-26,Fiji,1,0,0,1
-27,Finland,0,0,1,1
-28,France,10,18,14,42
-29,Georgia,2,1,4,7
-30,Germany,17,10,15,42
-31,Great Britain,27,23,17,67
-32,Greece,3,1,2,6
-33,Grenada,0,1,0,1
-34,Hungary,8,3,4,15
-35,Independent Olympic Athletes,1,0,1,2
-36,India,0,1,1,2
-37,Indonesia,1,2,0,3
-38,Ireland,0,2,0,2
-39,Islamic Republic of Iran,3,1,4,8
-40,Israel,0,0,2,2
-41,Italy,8,12,8,28
-42,Jamaica,6,3,2,11
-43,Japan,12,8,21,41
-44,Jordan,1,0,0,1
-45,Kazakhstan,2,5,10,17
-46,Kenya,6,6,1,13
-47,Kosovo,1,0,0,1
-48,Lithuania,0,1,3,4
-49,Malaysia,0,4,1,5
-50,Mexico,0,3,2,5
-51,Mongolia,0,1,1,2
-52,Morocco,0,0,1,1
-53,Netherlands,8,7,4,19
-54,New Zealand,4,9,5,18
-55,Niger,0,1,0,1
-56,Nigeria,0,0,1,1
-57,Norway,0,0,4,4
-58,People's Republic of China,26,18,26,70
-59,Philippines,0,1,0,1
-60,Poland,2,3,6,11
-61,Portugal,0,0,1,1
-62,Puerto Rico,1,0,0,1
-63,Qatar,0,1,0,1
-64,Republic of Korea,9,3,9,21
-65,Romania,1,1,2,4
-66,Russian Federation,19,17,20,56
-67,Serbia,2,4,2,8
-68,Singapore,1,0,0,1
-69,Slovakia,2,2,0,4
-70,Slovenia,1,2,1,4
-71,South Africa,2,6,2,10
-72,Spain,7,4,6,17
-73,Sweden,2,6,3,11
-74,Switzerland,3,2,2,7
-75,Tajikistan,1,0,0,1
-76,Thailand,2,2,2,6
-77,Trinidad and Tobago,0,0,1,1
-78,Tunisia,0,0,3,3
-79,Türkiye,1,3,4,8
-80,Ukraine,2,5,4,11
-81,United Arab Emirates,0,0,1,1
-82,United States of America,46,37,38,121
-83,Uzbekistan,4,2,7,13
-84,Venezuela,0,2,1,3
-85,Vietnam,1,1,0,2
+,abv,country,gold,silver,bronze,total
+0,ALG,Algeria,0,2,0,2
+1,ARG,Argentina,3,1,0,4
+2,ARM,Armenia,1,3,0,4
+3,AUS,Australia,8,11,10,29
+4,AUT,Austria,0,0,1,1
+5,AZE,Azerbaijan,1,7,10,18
+6,BAH,Bahamas,1,0,1,2
+7,BRN,Bahrain,1,1,0,2
+8,BOC,Belarus,1,4,4,9
+9,BEL,Belgium,2,2,2,6
+10,BRA,Brazil,7,6,6,19
+11,BUL,Bulgaria,0,1,2,3
+12,BDI,Burundi,0,1,0,1
+13,CAN,Canada,4,3,15,22
+14,TPE,Chinese Taipei,1,0,2,3
+15,COL,Colombia,3,2,3,8
+16,CRO,Croatia,5,3,2,10
+17,CUB,Cuba,5,2,4,11
+18,CZE,Czechia,1,2,7,10
+19,CIV,Côte d'Ivoire,1,0,1,2
+20,PRK,Democratic People's Republic of Korea,2,3,2,7
+21,DEN,Denmark,2,6,7,15
+22,DOM,Dominican Republic,0,0,1,1
+23,EGY,Egypt,0,0,3,3
+24,EST,Estonia,0,0,1,1
+25,ETH,Ethiopia,1,2,5,8
+26,FIJ,Fiji,1,0,0,1
+27,FIN,Finland,0,0,1,1
+28,FRA,France,10,18,14,42
+29,GEO,Georgia,2,1,4,7
+30,GER,Germany,17,10,15,42
+31,GBR,Great Britain,27,23,17,67
+32,GRE,Greece,3,1,2,6
+33,GRN,Grenada,0,1,0,1
+34,HUN,Hungary,8,3,4,15
+35,IOA,Independent Olympic Athletes,1,0,1,2
+36,IND,India,0,1,1,2
+37,INA,Indonesia,1,2,0,3
+38,IRL,Ireland,0,2,0,2
+39,IRI,Islamic Republic of Iran,3,1,4,8
+40,ISR,Israel,0,0,2,2
+41,ITA,Italy,8,12,8,28
+42,JAM,Jamaica,6,3,2,11
+43,JPN,Japan,12,8,21,41
+44,JOR,Jordan,1,0,0,1
+45,KAZ,Kazakhstan,2,5,10,17
+46,KEN,Kenya,6,6,1,13
+47,KOS,Kosovo,1,0,0,1
+48,LTU,Lithuania,0,1,3,4
+49,MAS,Malaysia,0,4,1,5
+50,MEX,Mexico,0,3,2,5
+51,MGL,Mongolia,0,1,1,2
+52,MAR,Morocco,0,0,1,1
+53,NED,Netherlands,8,7,4,19
+54,NZL,New Zealand,4,9,5,18
+55,NIG,Niger,0,1,0,1
+56,NGR,Nigeria,0,0,1,1
+57,NOR,Norway,0,0,4,4
+58,CHN,People's Republic of China,26,18,26,70
+59,PHI,Philippines,0,1,0,1
+60,POL,Poland,2,3,6,11
+61,POR,Portugal,0,0,1,1
+62,PUR,Puerto Rico,1,0,0,1
+63,QAT,Qatar,0,1,0,1
+64,KOR,Republic of Korea,9,3,9,21
+65,ROU,Romania,1,1,2,4
+66,RUS,Russian Federation,19,17,20,56
+67,SRB,Serbia,2,4,2,8
+68,SGP,Singapore,1,0,0,1
+69,SVK,Slovakia,2,2,0,4
+70,SLO,Slovenia,1,2,1,4
+71,RSA,South Africa,2,6,2,10
+72,ESP,Spain,7,4,6,17
+73,SWE,Sweden,2,6,3,11
+74,SUI,Switzerland,3,2,2,7
+75,TJK,Tajikistan,1,0,0,1
+76,THA,Thailand,2,2,2,6
+77,TTO,Trinidad and Tobago,0,0,1,1
+78,TUN,Tunisia,0,0,3,3
+79,TUR,Türkiye,1,3,4,8
+80,UKR,Ukraine,2,5,4,11
+81,UAE,United Arab Emirates,0,0,1,1
+82,USA,United States of America,46,37,38,121
+83,UZB,Uzbekistan,4,2,7,13
+84,VEN,Venezuela,0,2,1,3
+85,VIE,Vietnam,1,1,0,2

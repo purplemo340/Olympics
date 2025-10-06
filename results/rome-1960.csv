@@ -1,45 +1,45 @@
-,country,gold,silver,bronze,total
-0,Argentina,0,1,1,2
-1,Australia,8,8,6,22
-2,Austria,1,1,0,2
-3,Belgium,0,2,2,4
-4,Brazil,0,0,2,2
-5,Bulgaria,1,3,3,7
-6,Canada,0,1,0,1
-7,Chinese Taipei,0,1,0,1
-8,Czechoslovakia,3,2,3,8
-9,Denmark,2,3,1,6
-10,Ethiopia,1,0,0,1
-11,Finland,1,1,3,5
-12,France,0,2,3,5
-13,Germany,12,19,11,42
-14,Ghana,0,1,0,1
-15,Great Britain,2,6,12,20
-16,Greece,1,0,0,1
-17,Hungary,6,8,7,21
-18,India,0,1,0,1
-19,Iraq,0,0,1,1
-20,Islamic Republic of Iran,0,1,3,4
-21,Italy,13,10,13,36
-22,Jamaica,0,0,2,2
-23,Japan,4,7,7,18
-24,Mexico,0,0,1,1
-25,Morocco,0,1,0,1
-26,Netherlands,0,1,2,3
-27,New Zealand,2,0,1,3
-28,Norway,1,0,0,1
-29,Pakistan,1,0,1,2
-30,Poland,4,6,11,21
-31,Portugal,0,1,0,1
-32,Romania,3,1,6,10
-33,Singapore,0,1,0,1
-34,South Africa,0,1,2,3
-35,Spain,0,0,1,1
-36,Sweden,1,2,3,6
-37,Switzerland,0,3,3,6
-38,Türkiye,7,2,0,9
-39,USSR,43,29,31,103
-40,United Arab Emirates,0,1,1,2
-41,United States of America,34,21,16,71
-42,Venezuela,0,0,1,1
-43,Yugoslavia,1,1,0,2
+,abv,country,gold,silver,bronze,total
+0,ARG,Argentina,0,1,1,2
+1,AUS,Australia,8,8,6,22
+2,AUT,Austria,1,1,0,2
+3,BEL,Belgium,0,2,2,4
+4,BRA,Brazil,0,0,2,2
+5,BUL,Bulgaria,1,3,3,7
+6,CAN,Canada,0,1,0,1
+7,TPE,Chinese Taipei,0,1,0,1
+8,TCH,Czechoslovakia,3,2,3,8
+9,DEN,Denmark,2,3,1,6
+10,ETH,Ethiopia,1,0,0,1
+11,FIN,Finland,1,1,3,5
+12,FRA,France,0,2,3,5
+13,GER,Germany,12,19,11,42
+14,GHA,Ghana,0,1,0,1
+15,GBR,Great Britain,2,6,12,20
+16,GRE,Greece,1,0,0,1
+17,HUN,Hungary,6,8,7,21
+18,IND,India,0,1,0,1
+19,IRQ,Iraq,0,0,1,1
+20,IRI,Islamic Republic of Iran,0,1,3,4
+21,ITA,Italy,13,10,13,36
+22,JAM,Jamaica,0,0,2,2
+23,JPN,Japan,4,7,7,18
+24,MEX,Mexico,0,0,1,1
+25,MAR,Morocco,0,1,0,1
+26,NED,Netherlands,0,1,2,3
+27,NZL,New Zealand,2,0,1,3
+28,NOR,Norway,1,0,0,1
+29,PAK,Pakistan,1,0,1,2
+30,POL,Poland,4,6,11,21
+31,POR,Portugal,0,1,0,1
+32,ROU,Romania,3,1,6,10
+33,SGP,Singapore,0,1,0,1
+34,RSA,South Africa,0,1,2,3
+35,ESP,Spain,0,0,1,1
+36,SWE,Sweden,1,2,3,6
+37,SUI,Switzerland,0,3,3,6
+38,TUR,Türkiye,7,2,0,9
+39,USSR,USSR,43,29,31,103
+40,UAE,United Arab Emirates,0,1,1,2
+41,USA,United States of America,34,21,16,71
+42,VEN,Venezuela,0,0,1,1
+43,YUG,Yugoslavia,1,1,0,2

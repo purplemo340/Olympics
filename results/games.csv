@@ -1,54 +1,55 @@
-,City-Year,Type
-0,beijing-2022,winter
-1,tokyo-2020,summer
-2,pyeongchang-2018,winter
-3,rio-2016,summer
-4,sochi-2014,winter
-5,london-2012,summer
-6,vancouver-2010,winter
-7,beijing-2008,summer
-8,turin-2006,winter
-9,athens-2004,summer
-10,salt-lake-city-2002,winter
-11,sydney-2000,summer
-12,nagano-1998,winter
-13,atlanta-1996,summer
-14,lillehammer-1994,winter
-15,barcelona-1992,summer
-16,albertville-1992,winter
-17,seoul-1988,summer
-18,calgary-1988,winter
-19,los-angeles-1984,summer
-20,sarajevo-1984,winter
-21,moscow-1980,summer
-22,lake-placid-1980,winter
-23,montreal-1976,summer
-24,innsbruck-1976,winter
-25,munich-1972,summer
-26,sapporo-1972,winter
-27,mexico-city-1968,summer
-28,grenoble-1968,winter
-29,tokyo-1964,summer
-30,innsbruck-1964,winter
-31,rome-1960,summer
-32,squaw-valley-1960,winter
-33,melbourne-1956,summer
-34,cortina-d-ampezzo-1956,winter
-35,helsinki-1952,summer
-36,oslo-1952,winter
-37,london-1948,summer
-38,st-moritz-1948,winter
-39,berlin-1936,summer
-40,garmisch-partenkirchen-1936,winter
-41,los-angeles-1932,summer
-42,lake-placid-1932,winter
-43,amsterdam-1928,summer
-44,st-moritz-1928,winter
-45,paris-1924,summer
-46,chamonix-1924,winter
-47,antwerp-1920,summer
-48,stockholm-1912,summer
-49,london-1908,summer
-50,st-louis-1904,summer
-51,paris-1900,summer
-52,athens-1896,summer
+,City-Year,City
+0,paris-2024,Paris 2024
+1,beijing-2022,Beijing 2022
+2,tokyo-2020,Tokyo 2020
+3,pyeongchang-2018,PyeongChang 2018
+4,rio-2016,Rio 2016
+5,sochi-2014,Sochi 2014
+6,london-2012,London 2012
+7,vancouver-2010,Vancouver 2010
+8,beijing-2008,Beijing 2008
+9,turin-2006,Turin 2006
+10,athens-2004,Athens 2004
+11,salt-lake-city-2002,Salt Lake City 2002
+12,sydney-2000,Sydney 2000
+13,nagano-1998,Nagano 1998
+14,atlanta-1996,Atlanta 1996
+15,lillehammer-1994,Lillehammer 1994
+16,barcelona-1992,Barcelona 1992
+17,albertville-1992,Albertville 1992
+18,seoul-1988,Seoul 1988
+19,calgary-1988,Calgary 1988
+20,los-angeles-1984,Los Angeles 1984
+21,sarajevo-1984,Sarajevo 1984
+22,moscow-1980,Moscow 1980
+23,lake-placid-1980,Lake Placid 1980
+24,montreal-1976,Montreal 1976
+25,innsbruck-1976,Innsbruck 1976
+26,munich-1972,Munich 1972
+27,sapporo-1972,Sapporo 1972
+28,mexico-city-1968,Mexico City 1968
+29,grenoble-1968,Grenoble 1968
+30,tokyo-1964,Tokyo 1964
+31,innsbruck-1964,Innsbruck 1964
+32,rome-1960,Rome 1960
+33,squaw-valley-1960,Squaw Valley 1960
+34,melbourne-1956,Melbourne 1956
+35,cortina-d-ampezzo-1956,Cortina d'Ampezzo 1956
+36,helsinki-1952,Helsinki 1952
+37,oslo-1952,Oslo 1952
+38,london-1948,London 1948
+39,st-moritz-1948,St. Moritz 1948
+40,berlin-1936,Berlin 1936
+41,garmisch-partenkirchen-1936,Garmisch-Partenkirchen 1936
+42,los-angeles-1932,Los Angeles 1932
+43,lake-placid-1932,Lake Placid 1932
+44,amsterdam-1928,Amsterdam 1928
+45,st-moritz-1928,St. Moritz 1928
+46,paris-1924,Paris 1924
+47,chamonix-1924,Chamonix 1924
+48,antwerp-1920,Antwerp 1920
+49,stockholm-1912,Stockholm 1912
+50,london-1908,London 1908
+51,st-louis-1904,St. Louis 1904
+52,paris-1900,Paris 1900
+53,athens-1896,Athens 1896

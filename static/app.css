@@ -15,7 +15,7 @@
     text-align: center;
     border-radius: 10px;
     margin: 10px;
-    width: 50%;
+    width: 30%;
 }
 #clock{
     font-size: 32px
@@ -35,4 +35,20 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.countdown-heading{
+    background-color:var(--bs-blue);
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+#clock1{
+    font-size: 32px
+}
+.top{
+    display: flex;
+    
+}
+.heading{
+    width: 40%;
 }

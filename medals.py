@@ -15,31 +15,34 @@ driver = webdriver.Chrome(options=chrome_options)
 
 
 #
-if os.path.isfile('results/games.csv')==False:
-    driver.get("https://olympics.com/en/olympic-games/olympic-results")
-    links=driver.find_elements(By.CLASS_NAME, "sc-eVedOh")
+if os.path.isfile('results/games.csv')==True:
+    driver.get("https://www.olympics.com/en/olympic-games/olympic-results")
+    #select=driver.find_element(By.CLASS_NAME, 'sc-370dcec6-0').click()
+    
+    links=driver.find_elements(By.CLASS_NAME, "FuSzZ")
+    
     print(len(links))
     list=[]
     result=[]
     for link in links:
         if len(link.text)>0:
+            print(link.text)
             link=link.text.strip()
             l=link.replace(" ", "-")
             l=l.replace("'", "-") #for cortina d ampezz
             l = l.replace(".", "")
 
             l=l.lower()
-            result=re.split('\n', l)
-            #print(l)
+            result=[l, link]
             letters=re.findall(r'[a-z.]+', l)
             num=re.findall(r'[0-9]+', l)
-            print(result[0])
+            print(result[0]) 
             list.append(result)
+
             #print(letters)
-    print(result)
+    print(list)
     countries=np.array(list)
-    countries=countries.reshape(len(countries),2)
-    countries=pd.DataFrame(countries, columns=['City-Year', 'Type'])
+    countries=pd.DataFrame(countries, columns=["City-Year", "City"])
     countries.to_csv(f"results/games.csv")
     driver.quit()
 
@@ -48,7 +51,7 @@ if os.path.isfile('results/games.csv')==False:
 past_game=pd.read_csv('results/games.csv')
 games=[]
 for past in past_game['City-Year']:
-    if os.path.isfile(f"results/{past}.csv")==False:
+    if os.path.isfile(f"results/{past}.csv")==False or past=="paris-2024":
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_experimental_option("detach", True)
 
@@ -64,8 +67,10 @@ for past in past_game['City-Year']:
 
         games=driver.find_elements(By.CSS_SELECTOR, 'div>div>div>span')
         for game in games:
-            if game.text!='' and game.text!='Copyright 2024. All rights reserved':
+            print(game.text)
+            if game.text!='' and game.text!='Copyright 2025. All rights reserved':
                 olympic.append(game.text.replace("-", '0'))
+        
         print(olympic)
 
         countries=np.array(olympic)
@@ -78,5 +83,5 @@ for past in past_game['City-Year']:
     games.append(pd.read_csv(f"results/{past}.csv"))
 
 countries=pd.read_csv(f"results/games.csv")['City-Year']
-type1=pd.read_csv(f"results/games.csv")['Type']
+#type1=pd.read_csv(f"results/games.csv")['Type']
 driver.quit()

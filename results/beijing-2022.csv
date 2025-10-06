@@ -1,30 +1,30 @@
-,country,gold,silver,bronze,total
-0,Australia,1,2,1,4
-1,Austria,7,7,4,18
-2,Belarus,0,2,0,2
-3,Belgium,1,0,1,2
-4,Canada,4,8,14,26
-5,Czechia,1,0,1,2
-6,Estonia,0,0,1,1
-7,Finland,2,2,4,8
-8,France,5,7,2,14
-9,Germany,12,10,5,27
-10,Great Britain,1,1,0,2
-11,Hungary,1,0,2,3
-12,Italy,2,7,8,17
-13,Japan,3,7,8,18
-14,Latvia,0,0,1,1
-15,Netherlands,8,5,4,17
-16,New Zealand,2,1,0,3
-17,Norway,16,8,13,37
-18,People's Republic of China,9,4,2,15
-19,Poland,0,0,1,1
-20,ROC,5,12,15,32
-21,Republic of Korea,2,5,2,9
-22,Slovakia,1,0,1,2
-23,Slovenia,2,3,2,7
-24,Spain,0,1,0,1
-25,Sweden,8,5,5,18
-26,Switzerland,7,2,6,15
-27,Ukraine,0,1,0,1
-28,United States of America,9,9,7,25
+,abv,country,gold,silver,bronze,total
+0,AUS,Australia,1,2,1,4
+1,AUT,Austria,7,7,4,18
+2,BOC,Belarus,0,2,0,2
+3,BEL,Belgium,1,0,1,2
+4,CAN,Canada,4,8,14,26
+5,CZE,Czechia,1,0,1,2
+6,EST,Estonia,0,0,1,1
+7,FIN,Finland,2,2,4,8
+8,FRA,France,5,7,2,14
+9,GER,Germany,12,10,5,27
+10,GBR,Great Britain,1,1,0,2
+11,HUN,Hungary,1,0,2,3
+12,ITA,Italy,2,7,8,17
+13,JPN,Japan,3,7,8,18
+14,LAT,Latvia,0,0,1,1
+15,NED,Netherlands,8,5,4,17
+16,NZL,New Zealand,2,1,0,3
+17,NOR,Norway,16,8,13,37
+18,CHN,People's Republic of China,9,4,2,15
+19,POL,Poland,0,0,1,1
+20,ROC,ROC,5,12,15,32
+21,KOR,Republic of Korea,2,5,2,9
+22,SVK,Slovakia,1,0,1,2
+23,SLO,Slovenia,2,3,2,7
+24,ESP,Spain,0,1,0,1
+25,SWE,Sweden,8,5,5,18
+26,SUI,Switzerland,7,2,6,15
+27,UKR,Ukraine,0,1,0,1
+28,USA,United States of America,9,9,7,25

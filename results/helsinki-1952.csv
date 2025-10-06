@@ -1,44 +1,44 @@
-,country,gold,silver,bronze,total
-0,Argentina,1,2,2,5
-1,Australia,6,2,3,11
-2,Austria,0,1,1,2
-3,Belgium,2,2,0,4
-4,Brazil,1,0,2,3
-5,Bulgaria,0,0,1,1
-6,Canada,1,2,0,3
-7,Chile,0,2,0,2
-8,Czechoslovakia,7,3,3,13
-9,Denmark,2,1,3,6
-10,Egypt,0,0,1,1
-11,Finland,6,3,13,22
-12,France,6,6,6,18
-13,Germany,0,7,17,24
-14,Great Britain,1,2,8,11
-15,Hungary,16,10,16,42
-16,India,1,0,1,2
-17,Ireland,0,1,0,1
-18,Islamic Republic of Iran,0,3,4,7
-19,Italy,8,9,4,21
-20,Jamaica,2,3,0,5
-21,Japan,1,6,2,9
-22,Lebanon,0,1,1,2
-23,Luxembourg,1,0,0,1
-24,Mexico,0,1,0,1
-25,Netherlands,0,5,0,5
-26,New Zealand,1,0,2,3
-27,Norway,3,2,0,5
-28,Poland,1,2,1,4
-29,Portugal,0,0,1,1
-30,Republic of Korea,0,0,2,2
-31,Romania,1,1,2,4
-32,South Africa,2,4,4,10
-33,Spain,0,1,0,1
-34,Sweden,12,13,10,35
-35,Switzerland,2,6,6,14
-36,Trinidad and Tobago,0,0,2,2
-37,Türkiye,2,0,1,3
-38,USSR,22,30,19,71
-39,United States of America,40,19,17,76
-40,Uruguay,0,0,2,2
-41,Venezuela,0,0,1,1
-42,Yugoslavia,1,2,0,3
+,abv,country,gold,silver,bronze,total
+0,ARG,Argentina,1,2,2,5
+1,AUS,Australia,6,2,3,11
+2,AUT,Austria,0,1,1,2
+3,BEL,Belgium,2,2,0,4
+4,BRA,Brazil,1,0,2,3
+5,BUL,Bulgaria,0,0,1,1
+6,CAN,Canada,1,2,0,3
+7,CHI,Chile,0,2,0,2
+8,TCH,Czechoslovakia,7,3,3,13
+9,DEN,Denmark,2,1,3,6
+10,EGY,Egypt,0,0,1,1
+11,FIN,Finland,6,3,13,22
+12,FRA,France,6,6,6,18
+13,GER,Germany,0,7,17,24
+14,GBR,Great Britain,1,2,8,11
+15,HUN,Hungary,16,10,16,42
+16,IND,India,1,0,1,2
+17,IRL,Ireland,0,1,0,1
+18,IRI,Islamic Republic of Iran,0,3,4,7
+19,ITA,Italy,8,9,4,21
+20,JAM,Jamaica,2,3,0,5
+21,JPN,Japan,1,6,2,9
+22,LBN,Lebanon,0,1,1,2
+23,LUX,Luxembourg,1,0,0,1
+24,MEX,Mexico,0,1,0,1
+25,NED,Netherlands,0,5,0,5
+26,NZL,New Zealand,1,0,2,3
+27,NOR,Norway,3,2,0,5
+28,POL,Poland,1,2,1,4
+29,POR,Portugal,0,0,1,1
+30,KOR,Republic of Korea,0,0,2,2
+31,ROU,Romania,1,1,2,4
+32,RSA,South Africa,2,4,4,10
+33,ESP,Spain,0,1,0,1
+34,SWE,Sweden,12,13,10,35
+35,SUI,Switzerland,2,6,6,14
+36,TTO,Trinidad and Tobago,0,0,2,2
+37,TUR,Türkiye,2,0,1,3
+38,USSR,USSR,22,30,19,71
+39,USA,United States of America,40,19,17,76
+40,URU,Uruguay,0,0,2,2
+41,VEN,Venezuela,0,0,1,1
+42,YUG,Yugoslavia,1,2,0,3

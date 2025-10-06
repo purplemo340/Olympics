@@ -1,20 +1,20 @@
-,country,gold,silver,bronze,total
-0,France,31,41,40,112
-1,United States of America,20,13,15,48
-2,Great Britain,20,8,9,37
-3,Belgium,6,7,5,18
-4,Switzerland,6,3,1,10
-5,Germany,4,3,2,9
-6,Italy,3,2,0,5
-7,Denmark,1,3,2,6
-8,Netherlands,1,2,3,6
-9,Mixed team,1,2,3,6
-10,Hungary,1,2,2,5
-11,Cuba,1,1,0,2
-12,Spain,1,0,0,1
-13,Austria,0,3,3,6
-14,Norway,0,2,3,5
-15,India,0,2,0,2
-16,Czechia,0,1,1,2
-17,Australia,0,0,3,3
-18,Sweden,0,0,1,1
+,abv,country,gold,silver,bronze,total
+0,FRA,France,31,41,40,112
+1,USA,United States of America,20,13,15,48
+2,GBR,Great Britain,20,8,9,37
+3,BEL,Belgium,6,7,5,18
+4,SUI,Switzerland,6,3,1,10
+5,GER,Germany,4,3,2,9
+6,ITA,Italy,3,2,0,5
+7,DEN,Denmark,1,3,2,6
+8,NED,Netherlands,1,2,3,6
+9,MIX,Mixed team,1,2,3,6
+10,HUN,Hungary,1,2,2,5
+11,CUB,Cuba,1,1,0,2
+12,ESP,Spain,1,0,0,1
+13,AUT,Austria,0,3,3,6
+14,NOR,Norway,0,2,3,5
+15,IND,India,0,2,0,2
+16,CZE,Czechia,0,1,1,2
+17,AUS,Australia,0,0,3,3
+18,SWE,Sweden,0,0,1,1

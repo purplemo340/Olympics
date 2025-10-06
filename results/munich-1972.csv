@@ -1,49 +1,49 @@
-,country,gold,silver,bronze,total
-0,Argentina,0,1,0,1
-1,Australia,8,7,2,17
-2,Austria,0,1,2,3
-3,Belgium,0,2,0,2
-4,Brazil,0,0,2,2
-5,Bulgaria,6,10,5,21
-6,Canada,0,2,3,5
-7,Colombia,0,1,2,3
-8,Cuba,3,1,4,8
-9,Czechoslovakia,2,4,2,8
-10,Democratic People's Republic of Korea,1,1,3,5
-11,Denmark,1,0,0,1
-12,Ethiopia,0,0,2,2
-13,Federal Republic of Germany,13,11,16,40
-14,Finland,3,1,4,8
-15,France,2,4,7,13
-16,German Democratic Republic (Germany),20,23,23,66
-17,Ghana,0,0,1,1
-18,Great Britain,4,5,9,18
-19,Greece,0,2,0,2
-20,Hungary,6,13,16,35
-21,India,0,0,1,1
-22,Islamic Republic of Iran,0,2,1,3
-23,Italy,5,3,10,18
-24,Jamaica,0,0,1,1
-25,Japan,13,8,8,29
-26,Kenya,2,3,4,9
-27,Lebanon,0,1,0,1
-28,Mexico,0,1,0,1
-29,Mongolia,0,1,0,1
-30,Netherlands,3,1,1,5
-31,New Zealand,1,1,1,3
-32,Niger,0,0,1,1
-33,Nigeria,0,0,1,1
-34,Norway,2,1,1,4
-35,Pakistan,0,1,0,1
-36,Poland,7,5,9,21
-37,Republic of Korea,0,1,0,1
-38,Romania,3,6,7,16
-39,Spain,0,0,1,1
-40,Sweden,4,6,6,16
-41,Switzerland,0,3,0,3
-42,Tunisia,0,1,0,1
-43,Türkiye,0,1,0,1
-44,USSR,50,27,22,99
-45,Uganda,1,1,0,2
-46,United States of America,33,31,30,94
-47,Yugoslavia,2,1,2,5
+,abv,country,gold,silver,bronze,total
+0,ARG,Argentina,0,1,0,1
+1,AUS,Australia,8,7,2,17
+2,AUT,Austria,0,1,2,3
+3,BEL,Belgium,0,2,0,2
+4,BRA,Brazil,0,0,2,2
+5,BUL,Bulgaria,6,10,5,21
+6,CAN,Canada,0,2,3,5
+7,COL,Colombia,0,1,2,3
+8,CUB,Cuba,3,1,4,8
+9,TCH,Czechoslovakia,2,4,2,8
+10,PRK,Democratic People's Republic of Korea,1,1,3,5
+11,DEN,Denmark,1,0,0,1
+12,ETH,Ethiopia,0,0,2,2
+13,FRG,Federal Republic of Germany,13,11,16,40
+14,FIN,Finland,3,1,4,8
+15,FRA,France,2,4,7,13
+16,GDR,German Democratic Republic (Germany),20,23,23,66
+17,GHA,Ghana,0,0,1,1
+18,GBR,Great Britain,4,5,9,18
+19,GRE,Greece,0,2,0,2
+20,HUN,Hungary,6,13,16,35
+21,IND,India,0,0,1,1
+22,IRI,Islamic Republic of Iran,0,2,1,3
+23,ITA,Italy,5,3,10,18
+24,JAM,Jamaica,0,0,1,1
+25,JPN,Japan,13,8,8,29
+26,KEN,Kenya,2,3,4,9
+27,LBN,Lebanon,0,1,0,1
+28,MEX,Mexico,0,1,0,1
+29,MGL,Mongolia,0,1,0,1
+30,NED,Netherlands,3,1,1,5
+31,NZL,New Zealand,1,1,1,3
+32,NIG,Niger,0,0,1,1
+33,NGR,Nigeria,0,0,1,1
+34,NOR,Norway,2,1,1,4
+35,PAK,Pakistan,0,1,0,1
+36,POL,Poland,7,5,9,21
+37,KOR,Republic of Korea,0,1,0,1
+38,ROU,Romania,3,6,7,16
+39,ESP,Spain,0,0,1,1
+40,SWE,Sweden,4,6,6,16
+41,SUI,Switzerland,0,3,0,3
+42,TUN,Tunisia,0,1,0,1
+43,TUR,Türkiye,0,1,0,1
+44,USSR,USSR,50,27,22,99
+45,UGA,Uganda,1,1,0,2
+46,USA,United States of America,33,31,30,94
+47,YUG,Yugoslavia,2,1,2,5
