@@ -8,6 +8,7 @@
 --bs-light-yellow: #dd935e;
 --bs-dust-blue: #8e9183;
 --bs-light-purple: #a56170;
+--bs-yellow: #F0E40E;
 
 }
 .countdown{
@@ -29,7 +30,7 @@ body{
 }
 img{
     text-align:left;
-    width: 60%;
+    width: 80%;
 }
 .center{
     display: flex;
@@ -51,4 +52,75 @@ img{
 }
 .heading{
     width: 40%;
+    
+
+}
+.rings{
+    display: flex;
+}
+.ring{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+.red{
+    border: solid red;
+}
+.blue{
+    border: solid blue;
+    margin-left:-50px;
+}
+.list{
+    height: 600px;
+    overflow: auto;
+    
+}
+.title{
+    width: 20%;
+    justify-content: center;
+    
+    height: 100%;
+}
+.body{
+    justify-content: center;
+    
+}
+.container-up{
+    display: flex;
+    justify-content: center;
+}
+button{
+    display: flex;
+    justify-content: center;
+    background-color: var(--bs-white);
+}
+p:hover{
+    background-color: var(--bs-blue);
+    font-weight: bold;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    
+}
+button:hover{
+    background-color: var(--bs-yellow);
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+option{
+    background-color: var(--bs-blue);
+    border-radius: 10px;
+}
+select{
+    background-color: var(--bs-blue);
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+}
+select:hover{
+    background-color: var(--bs-yellow);
 }

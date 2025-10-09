@@ -2,12 +2,37 @@
 <html lang="en">
 
 <body>
+    <div class="container-up">
+        <div class="title">
 <h1>{{city.title().replace('-', ' ')}}</h1>
+   <div class="form">
+<form method="POST">
+    <select name="Cities">
+        {%for game in games:%}
+        <option value="{{ game }}">{{ game.title().replace('-', ' ') }}</option>
+
+        {% endfor %}
+    </select>
+    <div class="button">
+    <button class="center" type="submit">Submit</button>
+</div>
+</form>
+</div>
 {% if city== 'st-louis-1904': %}
     <h2> While doing research on the Olympics, I learned that there is no official medal count
         for the St. Louis games. Different sources report different medal counts.</h2>
 {% endif %}
-<img src="../static/images/{{city.title()}}.png">
+<div class="list">
+    <h2>Countries</h2>
+{%for a in range(length):%}
+<p>{{abv[a]}} - {{countries[a]}}</p>
 
+{%endfor%}
+</div>
+</div>
+<div class="body">
+<img src="../static/images/{{city.title()}}.png">
+</div>
+</div>
 </body>
 </html>
